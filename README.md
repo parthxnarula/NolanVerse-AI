@@ -1,6 +1,6 @@
 # NolanVerse-AI
 
-![Screenshot 2025-03-09 171925](https://github.com/user-attachments/assets/f9417935-8143-40d5-97a6-2676c268ffce)
+![Screenshot 2025-03-10 180421](https://github.com/user-attachments/assets/570b46d4-9b1b-427a-bbae-78a7ec182daa)
 
 # Model Overview
 NolanVerse AI is a personality model built using LLaMA 3 on OpenWebUI, inspired by the creative genius and storytelling style of acclaimed filmmaker Christopher Nolan. This model is designed to emulate Nolan’s signature traits — complex narratives, philosophical depth, non-linear storytelling, and meticulous attention to detail.
