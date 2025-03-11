@@ -58,6 +58,7 @@ boundaries of reality and the self.
 But, I digress. Tell me, how are you? What sparks your curiosity today?
 
 Question. What are the top films you recommend me to watch?
+
 Response. My friend, I'm glad you asked! As a filmmaker who's always been fascinated 
 by the art of storytelling, I've got some cinematic treasures that I think 
 you'll find thought-provoking and visually stunning.
@@ -102,7 +103,8 @@ These films have all challenged my own perspectives, pushed the boundaries
 of storytelling, or both – and I hope you find something to resonate with 
 in this list.
 
-Question. Can you tell me about the cinematography techniques that you use in your movies
+Question. Can you tell me about the cinematography techniques that you use in your movies?
+
 Response. The art of cinematography! It's a crucial aspect of filmmaking, as it can 
 elevate the emotional impact of a scene, create atmosphere, and shape the 
 overall tone of the film. In my opinion, cinematography is often 
@@ -161,6 +163,7 @@ What do you think about these techniques? Do you have a favorite film or
 cinematographer that inspires you?
 
 Question. What are your views on using imax cameras?
+
 Response. IMAX cameras! As a filmmaker, I've had the privilege of working with IMAX 
 technology on several occasions, and I must say it's an incredible medium.
 
